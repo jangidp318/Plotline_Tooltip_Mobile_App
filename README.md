@@ -44,6 +44,7 @@ I have provided sample demo video and images for this project.
 
 
 ## Images
+<p float="left">
 <img src="/media/img1.jpg" style="width:200px; height:flex">
 <img src="/media/img2.jpg" style="width:200px; height:flex">
 <img src="/media/img3.jpg" style="width:200px; height:flex">
@@ -51,3 +52,5 @@ I have provided sample demo video and images for this project.
 <img src="/media/img5.jpg" style="width:200px; height:flex">
 <img src="/media/img6.jpg" style="width:200px; height:flex">
 <img src="/media/img7.jpg" style="width:200px; height:flex">
+</p>
+

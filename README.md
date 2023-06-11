@@ -40,11 +40,8 @@ Scan the QR code showing in the terminal. And it will automatically run the appl
 I have provided sample demo video and images for this project.
 
 ## Demo Video
-<!-- [![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/-TCjrT_kKa0) -->
-<video width="320" height="240" controls>
-  <source src="/media//VID-20230611-WA0012.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+
+https://github.com/jangidp318/Plotline_Tooltip_Mobile_App/assets/85607879/a16c7562-6e1c-47ee-acb7-6a1c47cac385
 
 
 ## Images

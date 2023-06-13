@@ -7,7 +7,7 @@ This is a mobile application developed in React Native JS framework. This is an 
 ## Step 1: Clone the project
 
 ```
-git clonre https://github.com/jangidp318/Plotline_Tooltip_Mobile_App.git
+git clone https://github.com/jangidp318/Plotline_Tooltip_Mobile_App.git
 ```
 
 ## Step 2: Change directory and install dependencies
